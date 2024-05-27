@@ -1,6 +1,6 @@
 ## Chip8 emulator
 
-Pure jaav implementation of chip8, using AWT for VFX emulation
+Pure Java implementation of chip8, using AWT for VFX emulation
 JUnit for testng instructions and emulator components.
 
 The emulator passes the test ROMS provided
